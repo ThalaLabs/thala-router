@@ -24,7 +24,7 @@
     "@aptos-labs/ts-sdk": "^1.11.0",
     "@thalalabs/surf": "^1.7.0",
     "@types/jest": "^29.5.12",
-    "@types/lodash": "^4.17.0",
+    "@types/lodash": "^4.17.14",
     "@typescript-eslint/eslint-plugin": "^7.10.0",
     "@typescript-eslint/parser": "^6.10.0",
     "eslint": "^9.3.0",
